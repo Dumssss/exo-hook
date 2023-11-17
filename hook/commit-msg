@@ -1,2 +1,2 @@
 #!/bin/sh
-node ../hook.sh "$1"
+node .git/hook.js "$1"
