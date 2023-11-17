@@ -1,2 +1,2 @@
 #!/bin/sh
-node chemin/vers/votre/projet/Hook.js "$1"
+node ../Hook.js "$1"
