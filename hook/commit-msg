@@ -1,3 +1,3 @@
 #!/bin/bash
-chemin_vers_hook="C:\Users\USER\OneDrive\Documents\Etudes\EFREI Paris\Cours-git\exo-hook\hook.sh"
+chemin_vers_hook="../hook.sh"
 bash "$chemin_vers_hook" "$1"
