@@ -1,2 +1,3 @@
-#!/bin/sh
-node .git/hook.js "$1"
+#!/bin/bash
+chemin_vers_hook="../hook.sh"
+bash "$chemin_vers_hook" "$1"
