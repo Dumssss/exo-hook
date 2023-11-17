@@ -1,3 +1,0 @@
-#!/bin/bash
-chemin_vers_hook="../hook.sh"
-bash "$chemin_vers_hook" "$1"
